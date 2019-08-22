@@ -1,0 +1,16 @@
+.test {
+  background: #fff;
+}
+
+.test:hover {
+  background: #000;
+}
+
+.box {
+  margin: 0;
+}
+
+.box-descr {
+  padding: 0;
+  font-size: 12px;
+}

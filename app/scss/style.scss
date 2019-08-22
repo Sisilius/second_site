@@ -1,0 +1,14 @@
+.test {
+    background: #fff;
+    &:hover {
+        background: #000;
+    }
+}
+
+.box {
+    margin: 0;
+    &-descr {
+        padding: 0;
+        font-size: 12px;
+    }
+}
